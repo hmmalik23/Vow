@@ -1,0 +1,9 @@
+{
+  "name": "VOW \u2014 Your word. Your signature.",
+  "short_name": "VOW",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#0d0d0d",
+  "description": "Pacts, agreements and friendly challenges."
+}
